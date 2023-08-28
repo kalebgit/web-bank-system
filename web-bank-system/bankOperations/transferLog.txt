@@ -1,0 +1,4 @@
+****TransferLogs****
+transfer | origin = 2 | card = 1000000000000001 receiver = 3 | card = false
+transfer | origin = 2 | card = 1000000000000001 receiver = 3 | card = false | amount: 315.0 | date: 2023-08-21 21:17:50.1741108
+transfer | origin = 2 | card = 1000000000000001 receiver = 3 | card = false | amount: 100.0 | date: 2023-08-21 21:20:24.6856669
